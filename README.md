@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/341813301/original/d601157ccb94e8f75cdbaabb50699ad5f3f27eaa/be-your-full-stack-developer-with-mern-stack.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Navdeep C</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
